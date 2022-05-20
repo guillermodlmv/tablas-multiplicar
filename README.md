@@ -1,7 +1,7 @@
 # Tablas-multiplicar
 Aplicacion para crear txt con tablas de multiplicar
 
-#Instrucciones
+# Instrucciones
 - Descarga el repositorio.
 - Descomprime el repositorio
 - Realiza npm i en la consola
