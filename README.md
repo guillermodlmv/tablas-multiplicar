@@ -1,5 +1,11 @@
-# tablas-multiplicar
+# Tablas-multiplicar
 Aplicacion para crear txt con tablas de multiplicar
+
+#Instrucciones
+- Descarga el repositorio.
+- Descomprime el repositorio
+- Realiza npm i en la consola
+- Ejecuta la app con node app y alguno de las opciones disponibles en Notas.
 
 
 # Notas:
